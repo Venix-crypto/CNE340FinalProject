@@ -1,1 +1,1 @@
-# CNE340FinalProject
+# Josh Brown, Dre Owens, Farrius Dean
